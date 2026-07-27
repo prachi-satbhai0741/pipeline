@@ -1,2 +1,2 @@
 # pipeline
-Practice og declarative and multibranch pipeline
+Practice of declarative and multibranch pipeline
